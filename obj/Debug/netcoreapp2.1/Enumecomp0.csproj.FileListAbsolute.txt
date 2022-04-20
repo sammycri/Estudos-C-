@@ -1,0 +1,13 @@
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\bin\Debug\netcoreapp2.1\Enumecomp0.deps.json
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\bin\Debug\netcoreapp2.1\Enumecomp0.runtimeconfig.json
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\bin\Debug\netcoreapp2.1\Enumecomp0.runtimeconfig.dev.json
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\bin\Debug\netcoreapp2.1\Enumecomp0.dll
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\bin\Debug\netcoreapp2.1\Enumecomp0.pdb
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.csproj.AssemblyReference.cache
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.AssemblyInfoInputs.cache
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.AssemblyInfo.cs
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.dll
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.pdb
+C:\Users\Sammy\Desktop\projetos\Enumecomp0\Enumecomp0\obj\Debug\netcoreapp2.1\Enumecomp0.genruntimeconfig.cache
